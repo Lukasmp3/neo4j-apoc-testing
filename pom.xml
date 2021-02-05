@@ -17,20 +17,20 @@
         <dependency>
             <groupId>org.neo4j.driver</groupId>
             <artifactId>neo4j-java-driver</artifactId>
-            <version>4.0.1</version>
+            <version>4.1.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.neo4j.test</groupId>
             <artifactId>neo4j-harness</artifactId>
-            <version>4.0.5</version>
+            <version>4.1.6</version>
             <scope>test</scope>
         </dependency>
 
         <dependency>
             <groupId>org.neo4j.procedure</groupId>
             <artifactId>apoc</artifactId>
-            <version>4.0.0.13</version>
+            <version>4.1.0.5</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
